@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on Cryptography related projects using python and also I'm currently improving my java and c++ knowledge as well.
+I'm currently working on Cryptography related projects using python and also I'm trying to improve my java and c++ knowledge as well.
 
 
 ## 🌐 Socials:
