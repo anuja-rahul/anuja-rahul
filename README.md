@@ -3,6 +3,15 @@ I'm currently working on some cryptography related python projects and a web dev
 Feel free to check them out --> [here](https://github.com/anuja-rahul?tab=repositories)
 
 
+```java
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("Drop a 🌟 if you ❤ it !");
+    }
+}
+```
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/hkeRphFm) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anuja.gunasinghe?sfnsn=wa&mibextid=RUbZ1f) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuja__rahul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuja-rahul-gunasinghe) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ARG0712) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/madrush07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anuja_Rahul07) 
 
