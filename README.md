@@ -1,7 +1,8 @@
 # 💫 About Me:
+I ❤ coding solutions to automate and simplify our day-to-day tasks.  
+
 I'm currently working on some cryptography related python projects and a web development project.  
 Feel free to check them out --> [here](https://github.com/anuja-rahul?tab=repositories)
-
 
 ```java
 public class Hello {
@@ -73,7 +74,8 @@ public class Hello {
 ---
 [![](https://visitcount.itsvg.in/api?id=anuja-rahul&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-<img src="https://github.com/anuja-rahul/anuja-rahul/blob/main/github-user-contribution.svg">
+<p>
+<img src="https://github.com/anuja-rahul/anuja-rahul/blob/main/github-user-contribution.svg"
+ alt="github-user-contribution.svg">
 </p>
 
