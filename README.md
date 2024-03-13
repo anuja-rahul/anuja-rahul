@@ -7,7 +7,7 @@ Feel free to check them out --> [here](https://github.com/anuja-rahul?tab=reposi
 ```java
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Drop a 🌟 if you ❤ it !");
+        System.out.println("Drop a ⭐ if you ❤ it !");
     }
 }
 ```
