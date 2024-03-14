@@ -45,11 +45,11 @@ public class Hello {
 ![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=264de4) 
 ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) 
 
-### CSS Frameworks
+### CSS Frameworks:
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)
 
-### Web Frameworks
+### Web Frameworks:
 
 ![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django)
@@ -71,7 +71,7 @@ public class Hello {
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000?style=for-the-badge&logo=adobe%20photoshop) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro)
 
-### Version Control
+### Version Control:
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
@@ -93,10 +93,10 @@ public class Hello {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuja-rahul&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anuja-rahul&theme=dark&hide_border=false)
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=anuja-rahul&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- 
