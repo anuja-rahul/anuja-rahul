@@ -33,6 +33,7 @@ public class Hello {
  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=TensorFlow)
 -->
 
 ## 💻 Tech Stack:
@@ -87,7 +88,6 @@ public class Hello {
 ![Anaconda](https://img.shields.io/badge/Anaconda-000?style=for-the-badge&logo=anaconda) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=Matplotlib) 
 ![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=TensorFlow)
 
 <hr>
 
