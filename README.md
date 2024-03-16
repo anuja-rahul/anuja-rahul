@@ -94,15 +94,23 @@ public class Hello {
 <hr>
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anuja-rahul&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuja-rahul&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anuja-rahul&theme=dark&hide_border=false)
+![anuja-rahul's Stats](https://github-readme-stats.vercel.app/api?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+![anuja-rahul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuja-rahul&theme=nightowl&hide_border=true)
+<br/><br/>
+![anuja-rahul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 ### 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=anuja-rahul&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![anuja-rahul github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=anuja-rahul)
+![anuja-rahul github-trophies](https://stats.dooboo.io/api/github-trophies?login=anuja-rahul)
 
+<!--
+![](https://github-profile-trophy.vercel.app/?username=anuja-rahul&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+-->
+
+<!-- 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+-->
 
 <!-- 
 ### 🔝 Top Contributed Repo
@@ -116,4 +124,10 @@ public class Hello {
 <img src="https://github.com/anuja-rahul/anuja-rahul/blob/main/github-user-contribution.svg"
  alt="github-user-contribution.svg">
 </p>
+
+
+<!-- 
+![](https://komarev.com/ghpvc/?username=anuja-rahul&color=blue&style=flat&label=Profile+Views&base=237)
+
+-->
 
