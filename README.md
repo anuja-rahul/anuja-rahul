@@ -100,11 +100,11 @@ public class Hello {
 ![anuja-rahul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 ### 🏆 GitHub Trophies:
-![anuja-rahul github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=anuja-rahul)
-![anuja-rahul github-trophies](https://stats.dooboo.io/api/github-trophies?login=anuja-rahul)
+![](https://github-profile-trophy.vercel.app/?username=anuja-rahul&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 <!--
-![](https://github-profile-trophy.vercel.app/?username=anuja-rahul&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![anuja-rahul github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=anuja-rahul)
+![anuja-rahul github-trophies](https://stats.dooboo.io/api/github-trophies?login=anuja-rahul)
 -->
 
 <!-- 
