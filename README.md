@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 I ❤ to work on solutions to automate and simplify our day-to-day tasks.  
 
 I'm currently working on some cryptography related python projects and a web development project.  
@@ -45,6 +45,7 @@ public class Hello {
 ![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5) 
 ![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=264de4) 
 ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) 
+![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
 
 ### CSS Frameworks:
 
@@ -81,13 +82,14 @@ public class Hello {
 
 ### Other:
 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-000?style=for-the-badge&logo=windows-terminal) 
+![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
 ![Linode](https://img.shields.io/badge/linode-000?style=for-the-badge&logo=linode) 
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-000?style=for-the-badge&logo=anaconda) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=Matplotlib) 
 ![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-000?style=for-the-badge&logo=windows-terminal) 
 
 <hr>
 
