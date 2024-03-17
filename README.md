@@ -8,7 +8,7 @@ Feel free to check them out:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuja-rahul?tab=repositories">
-![](https://img.shields.io/badge/Repositories-000?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Repositories-111?style=for-the-badge&logo=github)
 </a>
 
 ```java
