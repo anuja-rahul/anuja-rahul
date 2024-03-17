@@ -1,7 +1,7 @@
 ## 💫 About Me:
 I ❤ to work on solutions to automate and simplify our day-to-day tasks.  
 
-I'm currently working on some cryptography related python projects and a web development project.  
+I'm currently working on some cryptography related python projects and a web development project using django.  
 Feel free to check them out --> [here](https://github.com/anuja-rahul?tab=repositories)
 
 ```java
