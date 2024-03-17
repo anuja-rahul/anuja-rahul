@@ -138,9 +138,11 @@ public class Hello {
 </p>
 -->
 
-<p>
-<img src="https://github.com/anuja-rahul/anuja-rahul/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anuja-rahul/anuja-rahul/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/anuja-rahul/anuja-rahul/blob/output/github-contribution-grid-snake.svg" />
+
+</picture>
 
 <!-- 
 ![](https://komarev.com/ghpvc/?username=anuja-rahul&color=blue&style=flat&label=Profile+Views&base=237)
