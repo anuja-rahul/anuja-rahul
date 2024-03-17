@@ -139,7 +139,8 @@ public class Hello {
 -->
 
 <p>
-<img src="https://github.com/anuja-rahul/anuja-rahul/blob/output/github-contribution-grid-snake-dark.svg">
+<img src="https://github.com/anuja-rahul/anuja-rahul/blob/output/github-contribution-grid-snake-dark.svg" 
+alt="snake animation svg">
 </p>
 
 <!-- 
