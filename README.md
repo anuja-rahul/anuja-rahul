@@ -81,6 +81,9 @@ public class Hello {
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000?style=for-the-badge&logo=adobe%20photoshop) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro)
 
+### Hosting
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+
 ### CI/CD:
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
 
