@@ -2,8 +2,11 @@
 I ❤ to work on solutions to automate and simplify our day-to-day tasks.  
 
 I'm currently working on some cryptography related python projects and a web development project using django.  
-Feel free to check them out --> <a href="https://github.com/anuja-rahul?tab=repositories">
-![Here](https://img.shields.io/badge/Here-000?style=for-the-badge&logo=github)  </a>
+
+Feel free to check them out:  
+<a href="https://github.com/anuja-rahul?tab=repositories">
+![Here](https://img.shields.io/badge/Here-000?style=for-the-badge&logo=github)
+</a>
 
 ```java
 public class Hello {
