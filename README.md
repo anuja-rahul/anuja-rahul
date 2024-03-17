@@ -11,6 +11,29 @@ Feel free to check them out:
 ![](https://img.shields.io/badge/Repositories-000033?style=for-the-badge&logo=github)
 </a>
 
+<button class="animated-button">Click Me</button>
+
+<style>
+.animated-button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.animated-button:hover {
+  background-color: #45a049;
+}
+</style>
+
+
 ```java
 public class Hello {
     public static void main(String[] args) {
