@@ -102,7 +102,7 @@ public class Hello {
 ![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-000?style=for-the-badge&logo=windows-terminal) 
 
-<hr>
+---
 
 ### 📊 GitHub Stats:
 ![anuja-rahul's Stats](https://github-readme-stats.vercel.app/api?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
@@ -130,6 +130,7 @@ public class Hello {
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anuja-rahul&icon=0&color=0)](https://visitcount.itsvg.in)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=anuja-rahul.anuja-rahul)
 
 <!--
 <p>
@@ -145,6 +146,6 @@ alt="snake animation svg">
 
 <!-- 
 ![](https://komarev.com/ghpvc/?username=anuja-rahul&color=blue&style=flat&label=Profile+Views&base=237)
-
+![GitHub Views](https://komarev.com/ghpvc/?username=anuja-rahul&color=7916C2&style=flat&label=Profile+Views&base=320)
 -->
 
