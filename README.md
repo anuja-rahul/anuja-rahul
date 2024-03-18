@@ -130,8 +130,6 @@ public class Hello {
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anuja-rahul&icon=0&color=0)](https://visitcount.itsvg.in)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=anuja-rahul.anuja-rahul)
-
 <!--
 <p>
 <img src="https://github.com/anuja-rahul/anuja-rahul/blob/main/github-user-contribution.svg"
