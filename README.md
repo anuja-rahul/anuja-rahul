@@ -1,9 +1,15 @@
 ## 💫 About Me:
-I ❤ to work on solutions to automate and simplify our day-to-day tasks.  
+### Hello there, I'm Anuja  
 
-I'm currently working on some cryptography related python projects and a web development project using django.  
+####  I'm a cs undergraduate from Sri Lanka. 
 
-Feel free to check them out:  
+- 👨‍💻  I'm currently working on improving my java knowledge.
+
+- 🚀  I ❤ to work on solutions to automate and simplify our day-to-day tasks.  
+
+- 🔐  I've been working on some cryptography related python projects and some web development projects.  
+
+- 📦  Feel free to check them out:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -15,7 +21,7 @@ Feel free to check them out:
 ```java
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Drop a ⭐ if you ❤ it !");
+        System.out.println("Drop a ⭐ if you 👍 it !");
     }
 }
 ```
@@ -145,5 +151,8 @@ alt="snake animation svg">
 <!-- 
 ![](https://komarev.com/ghpvc/?username=anuja-rahul&color=blue&style=flat&label=Profile+Views&base=237)
 ![GitHub Views](https://komarev.com/ghpvc/?username=anuja-rahul&color=7916C2&style=flat&label=Profile+Views&base=320)
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=anuja-rahul&label=Profile+Views&base=320&color=0e75b6&style=flat" alt="views" /> 
+</p>
 -->
 
