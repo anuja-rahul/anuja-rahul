@@ -97,6 +97,7 @@ public class Hello {
 ### Other:
 
 ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
+![Mermaid](https://img.shields.io/badge/Mermaid-000?style=for-the-badge&logo=mermaid)
 ![Linode](https://img.shields.io/badge/linode-000?style=for-the-badge&logo=linode) 
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi) 
