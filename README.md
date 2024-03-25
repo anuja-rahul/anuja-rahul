@@ -117,7 +117,7 @@ public class Hello {
 ---
 
 ### 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=anuja-rahul&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=anuja-rahul&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=2&column=5)
 
 <!--
 ![anuja-rahul github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=anuja-rahul)
