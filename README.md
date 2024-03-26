@@ -109,7 +109,8 @@ public class Hello {
 ---
 
 ### 📊 GitHub Stats:
-![anuja-rahul's Stats](https://github-readme-stats.vercel.app/api?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
+![anuja-rahul's Stats](https://github-readme-stats.vercel.app/api?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&count_private=true&rank_icon=github\&include_all_commits=true)
+![anuja-rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuja-rahul\&include_all_commits=true)
 ![anuja-rahul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuja-rahul&theme=nightowl&hide_border=true)
 <br/><br/>
 ![anuja-rahul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&layout=compact&langs_count=18)
