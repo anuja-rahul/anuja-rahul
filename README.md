@@ -136,23 +136,25 @@ public class Hello {
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anuja-rahul&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 <!--
+
 <p>
 <img src="https://github.com/anuja-rahul/anuja-rahul/blob/main/github-user-contribution.svg"
  alt="github-user-contribution.svg">
 </p>
--->
 
 <p>
 <img src="https://github.com/anuja-rahul/anuja-rahul/blob/output/github-contribution-grid-snake-dark.svg" 
 alt="snake animation svg">
 </p>
 
-<!-- 
 ![](https://komarev.com/ghpvc/?username=anuja-rahul&color=blue&style=flat&label=Profile+Views&base=237)
 ![GitHub Views](https://komarev.com/ghpvc/?username=anuja-rahul&color=7916C2&style=flat&label=Profile+Views&base=320)
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=anuja-rahul&label=Profile+Views&base=320&color=0e75b6&style=flat" alt="views" /> 
 </p>
+
 -->
 
