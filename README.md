@@ -28,7 +28,7 @@ public class Hello {
 [![Discord](https://img.shields.io/badge/Discord-000?logo=discord)](https://discord.gg/https://discord.com/invite/hkeRphFm) 
 [![Facebook](https://img.shields.io/badge/Facebook-000?logo=Facebook&logoColor=316ff6)](https://facebook.com/anuja.gunasinghe?sfnsn=wa&mibextid=RUbZ1f) 
 [![Instagram](https://img.shields.io/badge/Instagram-000?logo=Instagram)](https://instagram.com/anuja__rahul) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://linkedin.com/in/anuja-rahul-gunasinghe) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://linkedin.com/in/anuja-rahul-gunasinghe-83b589266/) 
 [![Reddit](https://img.shields.io/badge/Reddit-000?logo=Reddit)](https://reddit.com/user/ARG0712) 
 [![Twitch](https://img.shields.io/badge/Twitch-000?logo=Twitch)](https://twitch.tv/madrush07) 
 [![X](https://img.shields.io/badge/X-000?logo=X)](https://x.com/Anuja_Rahul07) 
