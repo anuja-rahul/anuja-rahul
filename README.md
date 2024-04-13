@@ -58,12 +58,12 @@ public class Hello {
 ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) 
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
 
-### CSS Frameworks:
+### Frameworks/Libraries:
 
+![React](https://img.shields.io/badge/-react-000?style=for-the-badge&logo=react)
+![GSAP](https://img.shields.io/badge/-gsap-000?style=for-the-badge&logo=greensock)
+![TailwindCSS](https://img.shields.io/badge/-tailwindcss-000?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)
-
-### Web Frameworks:
-
 ![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django)
 
