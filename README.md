@@ -56,28 +56,28 @@ public class Hello {
 ![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5) 
 ![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=264de4) 
 ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) 
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
+![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown&logoColor=CCCCCC)
 
 ### Frameworks/Libraries:
 
 ![React](https://img.shields.io/badge/-react-000?style=for-the-badge&logo=react)
-![GSAP](https://img.shields.io/badge/-gsap-000?style=for-the-badge&logo=greensock)
+![GSAP](https://img.shields.io/badge/-gsap-000?style=for-the-badge&logo=greensock&logoColor=33FF33)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-000?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)
-![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=white) 
-![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=41B883) 
+![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django&logoColor=F9A21C)
 
 ### Database:  
 
-![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb) 
+![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb&logoColor=0079BF) 
 ![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql) 
 ![Postgres](https://img.shields.io/badge/postgres-000?style=for-the-badge&logo=postgresql) 
-![SQLite](https://img.shields.io/badge/sqlite-000?style=for-the-badge&logo=sqlite)
+![SQLite](https://img.shields.io/badge/sqlite-000?style=for-the-badge&logo=sqlite&logoColor=00A6ED)
 
 ### Design:  
 
-![Adobe](https://img.shields.io/badge/adobe-000?style=for-the-badge&logo=adobe) 
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-000?style=for-the-badge&logo=Adobe%20Creative%20Cloud) 
+![Adobe](https://img.shields.io/badge/adobe-000?style=for-the-badge&logo=adobe&logoColor=FF0000) 
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-000?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=FFC107) 
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-000?style=for-the-badge&logo=Adobe%20Dreamweaver) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-000?style=for-the-badge&logo=adobe%20illustrator) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-000?style=for-the-badge&logo=Adobe%20Lightroom)
@@ -86,6 +86,8 @@ public class Hello {
 
 ### Hosting:
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Hostinger](https://img.shields.io/badge/-Hostinger-000?style=for-the-badge&logo=hostinger&logoColor=008B5E)
+
 
 ### CI/CD:
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
@@ -98,13 +100,14 @@ public class Hello {
 
 ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
 ![Mermaid](https://img.shields.io/badge/Mermaid-000?style=for-the-badge&logo=mermaid)
+![Sentry](https://img.shields.io/badge/-Sentry-000?style=for-the-badge&logo=sentry&logoColor=1A86FD)
 ![Linode](https://img.shields.io/badge/linode-000?style=for-the-badge&logo=linode) 
-![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino) 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi) 
+![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino&logoColor=00979D) 
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi&logoColor=C31A1F) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-000?style=for-the-badge&logo=anaconda) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=Matplotlib) 
-![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-000?style=for-the-badge&logo=windows-terminal) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=Matplotlib)
+![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas&logoColor=007FFF)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-000?style=for-the-badge&logo=windows-terminal&logoColor=E0E0E0) 
 
 ---
 
