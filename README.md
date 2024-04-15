@@ -35,16 +35,18 @@ public class Hello {
 
 <!-- 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
- 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=TensorFlow)
+
+![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django&logoColor=F9A21C)
+![Postgres](https://img.shields.io/badge/postgres-000?style=for-the-badge&logo=postgresql) 
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi&logoColor=C31A1F) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=Matplotlib)
 -->
 
 ## 💻 Tech Stack:
@@ -64,14 +66,12 @@ public class Hello {
 ![GSAP](https://img.shields.io/badge/-gsap-000?style=for-the-badge&logo=greensock&logoColor=33FF33)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-000?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)
-![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=41B883) 
-![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django&logoColor=F9A21C)
+![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=41B883)
 
 ### Database:  
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb&logoColor=0079BF) 
-![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql) 
-![Postgres](https://img.shields.io/badge/postgres-000?style=for-the-badge&logo=postgresql) 
+![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/sqlite-000?style=for-the-badge&logo=sqlite&logoColor=00A6ED)
 
 ### Design:  
@@ -103,10 +103,8 @@ public class Hello {
 ![Sentry](https://img.shields.io/badge/-Sentry-000?style=for-the-badge&logo=sentry&logoColor=1A86FD)
 ![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass)
 ![Linode](https://img.shields.io/badge/linode-000?style=for-the-badge&logo=linode) 
-![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino&logoColor=00979D) 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi&logoColor=C31A1F) 
-![Anaconda](https://img.shields.io/badge/Anaconda-000?style=for-the-badge&logo=anaconda) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=Matplotlib)
+![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino&logoColor=00979D)
+![Anaconda](https://img.shields.io/badge/Anaconda-000?style=for-the-badge&logo=anaconda)
 ![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas&logoColor=007FFF)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-000?style=for-the-badge&logo=windows-terminal&logoColor=E0E0E0) 
 
@@ -125,6 +123,7 @@ public class Hello {
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anuja-rahul&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <p>
 <img src="https://github.com/anuja-rahul/anuja-rahul/blob/output/github-contribution-grid-snake-dark.svg" 
