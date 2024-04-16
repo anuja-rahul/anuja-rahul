@@ -3,7 +3,7 @@
 
 ####  I'm a cs undergraduate from Sri Lanka. 
 
-- 👨‍💻  I'm currently working on improving my java knowledge.
+- 👨‍💻  I'm currently working on improving my React knowledge.
 
 - 🚀  I ❤ to work on solutions to automate and simplify our day-to-day tasks.  
 
