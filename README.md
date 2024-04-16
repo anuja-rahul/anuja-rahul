@@ -47,6 +47,7 @@ public class Hello {
 ![Postgres](https://img.shields.io/badge/postgres-000?style=for-the-badge&logo=postgresql) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi&logoColor=C31A1F) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=Matplotlib)
+![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)
 -->
 
 ## 💻 Tech Stack:
@@ -65,7 +66,6 @@ public class Hello {
 ![React](https://img.shields.io/badge/-react-000?style=for-the-badge&logo=react)
 ![GSAP](https://img.shields.io/badge/-gsap-000?style=for-the-badge&logo=greensock&logoColor=33FF33)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-000?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=41B883)
 
 ### Database:  
