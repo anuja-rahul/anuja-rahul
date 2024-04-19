@@ -87,6 +87,7 @@ public class Hello {
 ### Hosting:
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Hostinger](https://img.shields.io/badge/-Hostinger-000?style=for-the-badge&logo=hostinger&logoColor=008B5E)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=000080)
 
 
 ### CI/CD:
