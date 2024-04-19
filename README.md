@@ -102,6 +102,7 @@ public class Hello {
 ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
 ![Mermaid](https://img.shields.io/badge/Mermaid-000?style=for-the-badge&logo=mermaid)
 ![Sentry](https://img.shields.io/badge/-Sentry-000?style=for-the-badge&logo=sentry&logoColor=1A86FD)
+![Prismic](https://img.shields.io/badge/prismic-000?style=for-the-badge&logo=prismic)
 ![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass)
 ![Linode](https://img.shields.io/badge/linode-000?style=for-the-badge&logo=linode) 
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino&logoColor=00979D)
