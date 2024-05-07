@@ -48,6 +48,10 @@ public class Hello {
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi&logoColor=C31A1F) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=Matplotlib)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)
+![Adobe](https://img.shields.io/badge/adobe-000?style=for-the-badge&logo=adobe&logoColor=FF0000) 
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-000?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=FFC107) 
+![Linode](https://img.shields.io/badge/linode-000?style=for-the-badge&logo=linode) 
+![Anaconda](https://img.shields.io/badge/Anaconda-000?style=for-the-badge&logo=anaconda)
 -->
 
 ## 💻 Tech Stack:
@@ -61,12 +65,16 @@ public class Hello {
 ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) 
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown&logoColor=CCCCCC)
 
-### Frameworks/Libraries:
+### Tools/Frameworks/Libraries/Preprocessors:
 
 ![React](https://img.shields.io/badge/-react-000?style=for-the-badge&logo=react)
 ![GSAP](https://img.shields.io/badge/-gsap-000?style=for-the-badge&logo=greensock&logoColor=33FF33)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-000?style=for-the-badge&logo=tailwindcss)
+![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass)
 ![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=41B883)
+
+[//]: # (![Vite]&#40;https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite&#41;)
+[//]: # (![Next.js]&#40;https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&#41;)
 
 ### Database:  
 
@@ -76,8 +84,6 @@ public class Hello {
 
 ### Design:  
 
-![Adobe](https://img.shields.io/badge/adobe-000?style=for-the-badge&logo=adobe&logoColor=FF0000) 
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-000?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=FFC107) 
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-000?style=for-the-badge&logo=Adobe%20Dreamweaver) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-000?style=for-the-badge&logo=adobe%20illustrator) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-000?style=for-the-badge&logo=Adobe%20Lightroom)
@@ -99,14 +105,12 @@ public class Hello {
 
 ### Other:
 
-![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
+
 ![Mermaid](https://img.shields.io/badge/Mermaid-000?style=for-the-badge&logo=mermaid)
 ![Sentry](https://img.shields.io/badge/-Sentry-000?style=for-the-badge&logo=sentry&logoColor=1A86FD)
 ![Prismic](https://img.shields.io/badge/prismic-000?style=for-the-badge&logo=prismic)
-![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass)
-![Linode](https://img.shields.io/badge/linode-000?style=for-the-badge&logo=linode) 
+![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino&logoColor=00979D)
-![Anaconda](https://img.shields.io/badge/Anaconda-000?style=for-the-badge&logo=anaconda)
 ![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas&logoColor=007FFF)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-000?style=for-the-badge&logo=windows-terminal&logoColor=E0E0E0) 
 
