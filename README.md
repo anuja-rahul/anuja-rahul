@@ -1,4 +1,4 @@
-[![Portfolio](banner.png)](https://anuja-rahul-portfolio.vercel.app) 
+[![Portfolio](banner-theme.png)](https://anuja-rahul-portfolio.vercel.app) 
 ## 💫 About Me:
 ### Hello there, I'm Anuja  
 
