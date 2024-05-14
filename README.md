@@ -1,13 +1,5 @@
-<style>
-@font-face {
-  font-family: 'La Belle Aurore';
-  src: url('LaBelleAurore.woff2') format('woff2'), /* Modern Browsers */
-       url('LaBelleAurore.woff2') format('woff2'); /* Legacy Browsers */
-}
-span{
-    font-family: "La Belle Aurore", sans-serif !important;
-}
-</style>
+
+<link rel="stylesheet" type="text/css" href="style.css">
 
 [![Portfolio](banner-theme.png)](https://anuja-rahul-portfolio.vercel.app)
 ## 💫 About Me:

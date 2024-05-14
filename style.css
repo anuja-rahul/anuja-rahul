@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'La Belle Aurore';
+  src: url('LaBelleAurore.woff2') format('woff2'), /* Modern Browsers */
+       url('LaBelleAurore.woff2') format('woff2'); /* Legacy Browsers */
+}
+span{
+    font-family: "La Belle Aurore", sans-serif !important;
+}
