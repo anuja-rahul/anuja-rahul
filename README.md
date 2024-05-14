@@ -1,9 +1,7 @@
 
-<link rel="stylesheet" type="text/css" href="style.css">
-
 [![Portfolio](banner-theme.png)](https://anuja-rahul-portfolio.vercel.app)
 ## 💫 About Me:
-### Hello there, I'm <span>[Anuja Rahul🔗](https://anuja-rahul-portfolio.vercel.app) </span>
+### Hello there, I'm [Anuja Rahul🔗](https://anuja-rahul-portfolio.vercel.app)
 ####  I'm a cs undergraduate from Sri Lanka. 
 
 - 👨‍💻  I'm currently working on improving my React knowledge.
