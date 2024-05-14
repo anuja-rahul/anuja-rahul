@@ -1,6 +1,17 @@
+<style>
+@font-face {
+  font-family: 'La Belle Aurore';
+  src: url('LaBelleAurore.woff2') format('woff2'), /* Modern Browsers */
+       url('LaBelleAurore.woff2') format('woff2'); /* Legacy Browsers */
+}
+span{
+    font-family: "La Belle Aurore", sans-serif !important;
+}
+</style>
+
 [![Portfolio](banner-theme.png)](https://anuja-rahul-portfolio.vercel.app)
 ## 💫 About Me:
-### Hello there, I'm [<span style="font-family: La Belle Aurore;">Anuja Rahul🔗](https://anuja-rahul-portfolio.vercel.app) </span>
+### Hello there, I'm <span>[Anuja Rahul🔗](https://anuja-rahul-portfolio.vercel.app) </span>
 ####  I'm a cs undergraduate from Sri Lanka. 
 
 - 👨‍💻  I'm currently working on improving my React knowledge.
