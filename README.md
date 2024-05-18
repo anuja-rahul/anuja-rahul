@@ -1,14 +1,14 @@
 
 [![Portfolio](banner-theme.png)](https://anuja-rahul-portfolio.vercel.app)
 ## 💫 About Me:
-### Hello there, I'm [Anuja Rahul🔗](https://anuja-rahul-portfolio.vercel.app)
+### Hello there, I'm [Anuja Rahul 🔗](https://anuja-rahul-portfolio.vercel.app)
 ####  I'm a cs undergraduate from Sri Lanka. 
 
-- 👨‍💻  I'm currently working on improving my React knowledge.
+- 👨‍💻  I'm currently working on improving my Next.js/Typescript knowledge.
 
-- 🚀  I ❤ to work on solutions to automate and simplify our day-to-day tasks.  
+- 🚀  I ❤ to work on solutions to automate and simplify our day-to-day tasks using 🐍 python.  
 
-- 🔐  I've been working on some cryptography related python projects and some web development projects.  
+- 🌐  I've been working on some 🎨 frontend web development projects lately.  
 
 - 📦  Feel free to check them out:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -69,6 +69,7 @@ public class Hello {
 ### Tools/Frameworks/Libraries/Preprocessors:
 
 ![React](https://img.shields.io/badge/-react-000?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/-next.js-000?style=for-the-badge&logo=next.js)
 ![GSAP](https://img.shields.io/badge/-gsap-000?style=for-the-badge&logo=greensock&logoColor=33FF33)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-000?style=for-the-badge&logo=tailwindcss)
 ![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass)
