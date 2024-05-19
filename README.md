@@ -53,6 +53,7 @@ public class Hello {
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-000?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=FFC107) 
 ![Linode](https://img.shields.io/badge/linode-000?style=for-the-badge&logo=linode) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-000?style=for-the-badge&logo=anaconda)
+![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas&logoColor=007FFF)
 -->
 
 ## 💻 Tech Stack:
@@ -63,8 +64,11 @@ public class Hello {
 ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=f89820) 
 ![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5) 
 ![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=264de4) 
-![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) 
+![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown&logoColor=CCCCCC)
+
+<!-- (![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)
+-->
 
 ### Tools/Frameworks/Libraries/Preprocessors:
 
@@ -81,7 +85,7 @@ public class Hello {
 ### Database:  
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb&logoColor=0079BF) 
-![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/sqlite-000?style=for-the-badge&logo=sqlite&logoColor=00A6ED)
 
 ### Design:  
@@ -108,12 +112,12 @@ public class Hello {
 ### Other:
 
 
-![Mermaid](https://img.shields.io/badge/Mermaid-000?style=for-the-badge&logo=mermaid)
 ![Sentry](https://img.shields.io/badge/-Sentry-000?style=for-the-badge&logo=sentry&logoColor=1A86FD)
 ![Prismic](https://img.shields.io/badge/prismic-000?style=for-the-badge&logo=prismic)
+![Prisma](https://img.shields.io/badge/prisma-000?style=for-the-badge&logo=prisma)
+![Mermaid](https://img.shields.io/badge/Mermaid-000?style=for-the-badge&logo=mermaid)
 ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino&logoColor=00979D)
-![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas&logoColor=007FFF)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-000?style=for-the-badge&logo=windows-terminal&logoColor=E0E0E0) 
 
 ---
