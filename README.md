@@ -1,7 +1,7 @@
 
-[![Portfolio](banner-theme.png)](https://anuja-rahul-portfolio.vercel.app)
+[![Portfolio](banner-theme.png)](https://anujarahul.vercel.app)
 ## 💫 About Me:
-### Hello there, I'm [Anuja Rahul 🔗](https://anuja-rahul-portfolio.vercel.app)
+### Hello there, I'm [Anuja Rahul 🔗](https://anujarahul.vercel.app)
 ####  I'm a cs undergraduate from Sri Lanka. 
 
 - 👨‍💻  I'm currently working on improving my Next.js/Typescript knowledge.
