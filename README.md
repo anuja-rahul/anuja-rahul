@@ -65,6 +65,7 @@ public class Hello {
 ![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5) 
 ![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=264de4) 
 ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown&logoColor=CCCCCC)
 
 <!-- (![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)
@@ -75,6 +76,7 @@ public class Hello {
 ![React](https://img.shields.io/badge/-react-000?style=for-the-badge&logo=react)
 ![NextJS](https://img.shields.io/badge/-next.js-000?style=for-the-badge&logo=next.js)
 ![GSAP](https://img.shields.io/badge/-gsap-000?style=for-the-badge&logo=greensock&logoColor=33FF33)
+![FRAMER_MOTION](https://img.shields.io/badge/-framer_motion-000?style=for-the-badge&logo=framer)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-000?style=for-the-badge&logo=tailwindcss)
 ![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass)
 ![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=41B883)
