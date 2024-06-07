@@ -78,6 +78,7 @@ public class Hello {
 ![GSAP](https://img.shields.io/badge/-gsap-000?style=for-the-badge&logo=greensock&logoColor=33FF33)
 ![FRAMER_MOTION](https://img.shields.io/badge/-framer_motion-000?style=for-the-badge&logo=framer)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-000?style=for-the-badge&logo=tailwindcss)
+![DAISY_UI](https://img.shields.io/badge/-daisy_ui-000?style=for-the-badge&logo=daisyui)
 ![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass)
 ![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=41B883)
 
@@ -121,6 +122,9 @@ public class Hello {
 ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino&logoColor=00979D)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-000?style=for-the-badge&logo=windows-terminal&logoColor=E0E0E0) 
+![NODE](https://img.shields.io/badge/node-000?style=for-the-badge&logo=node.js)
+![PRETTIER](https://img.shields.io/badge/-prettier-000?style=for-the-badge&logo=prettier)
+![ESLINT](https://img.shields.io/badge/-eslint-000?style=for-the-badge&logo=eslint)
 
 ---
 
