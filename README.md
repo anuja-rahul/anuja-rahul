@@ -122,9 +122,6 @@ public class Hello {
 ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino&logoColor=00979D)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-000?style=for-the-badge&logo=windows-terminal&logoColor=E0E0E0) 
-![NODE](https://img.shields.io/badge/node-000?style=for-the-badge&logo=node.js)
-![PRETTIER](https://img.shields.io/badge/-prettier-000?style=for-the-badge&logo=prettier)
-![ESLINT](https://img.shields.io/badge/-eslint-000?style=for-the-badge&logo=eslint)
 
 ---
 
@@ -150,6 +147,11 @@ alt="snake animation svg">
 
 
 <!--
+
+
+![NODE](https://img.shields.io/badge/node-000?style=for-the-badge&logo=node.js)
+![PRETTIER](https://img.shields.io/badge/-prettier-000?style=for-the-badge&logo=prettier)
+![ESLINT](https://img.shields.io/badge/-eslint-000?style=for-the-badge&logo=eslint)
 
 ![anuja-rahul github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=anuja-rahul)
 ![anuja-rahul github-trophies](https://stats.dooboo.io/api/github-trophies?login=anuja-rahul)
