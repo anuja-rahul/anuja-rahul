@@ -17,7 +17,7 @@
 
 
 
----
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-000?logo=discord)](https://discord.gg/https://discord.com/invite/hkeRphFm) 
