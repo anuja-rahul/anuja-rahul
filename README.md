@@ -16,14 +16,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/anuja-rahul?tab=repositories">![](https://img.shields.io/badge/Repositories-000033?style=for-the-badge&logo=github)</a>
 
 
-```java
-public class Hello {
-    public static void main(String[] args) {
-        System.out.println("Drop a ⭐ if you 👍 it !");
-    }
-}
-```
 
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-000?logo=discord)](https://discord.gg/https://discord.com/invite/hkeRphFm) 
