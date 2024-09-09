@@ -56,7 +56,8 @@
 ![SQLALCHEMY](https://img.shields.io/badge/-sqlalchemy-000?style=for-the-badge&logo=sqlalchemy)
 ![FAST API](https://img.shields.io/badge/-fast_api-000?style=for-the-badge&logo=fastapi)
 ![POSTMAN](https://img.shields.io/badge/-postman-000?style=for-the-badge&logo=postman)
-![PYDANTIC](https://img.shields.io/badge/-pydantic-000?style=for-the-badge&logo=pydantic)
+
+[//]: # (![PYDANTIC]&#40;https://img.shields.io/badge/-pydantic-000?style=for-the-badge&logo=pydantic&#41;)
 
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Hostinger](https://img.shields.io/badge/-Hostinger-000?style=for-the-badge&logo=hostinger&logoColor=008B5E)
