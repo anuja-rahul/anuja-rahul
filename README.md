@@ -77,6 +77,8 @@
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-000?style=for-the-badge&logo=Adobe%20Dreamweaver)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-000?style=for-the-badge&logo=Adobe%20Lightroom)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000?style=for-the-badge&logo=adobe%20photoshop)
+
+
 ---
 
 ### 📊 GitHub Stats:
@@ -91,6 +93,9 @@
 -->
 
 ---
+
+![Codewars](https://www.codewars.com/users/anuja-rahul/badges/small)
+
 
 <p>
 <img src="https://github.com/anuja-rahul/anuja-rahul/blob/output/github-contribution-grid-snake-dark.svg" 
