@@ -46,6 +46,7 @@
 ![FRAMER_MOTION](https://img.shields.io/badge/-framer_motion-000?style=for-the-badge&logo=framer)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-000?style=for-the-badge&logo=tailwindcss)
 ![DAISY_UI](https://img.shields.io/badge/-daisy_ui-000?style=for-the-badge&logo=daisyui)
+![NEXT_UI](https://img.shields.io/badge/-next_ui-000?style=for-the-badge&logo=nextui)
 ![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass)
 
 ![POSTGRES](https://img.shields.io/badge/-postgresql-000?style=for-the-badge&logo=postgresql)
@@ -55,12 +56,17 @@
 
 ![SQLALCHEMY](https://img.shields.io/badge/-sqlalchemy-000?style=for-the-badge&logo=sqlalchemy)
 ![FAST API](https://img.shields.io/badge/-fast_api-000?style=for-the-badge&logo=fastapi)
+![SPRING](https://img.shields.io/badge/-spring-000?style=for-the-badge&logo=spring)
+![HIBERNATE](https://img.shields.io/badge/-hibernate-000?style=for-the-badge&logo=hibernate)
 ![POSTMAN](https://img.shields.io/badge/-postman-000?style=for-the-badge&logo=postman)
+
+[//]: # (![JWT]&#40;https://img.shields.io/badge/-JWT-000?style=for-the-badge&logo=json-web-tokens&#41;)
 
 [//]: # (![PYDANTIC]&#40;https://img.shields.io/badge/-pydantic-000?style=for-the-badge&logo=pydantic&#41;)
 
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Hostinger](https://img.shields.io/badge/-Hostinger-000?style=for-the-badge&logo=hostinger&logoColor=008B5E)
+![DIGITALOCEAN](https://img.shields.io/badge/-digital_ocean-000?style=for-the-badge&logo=digitalocean)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=000080)
 
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
