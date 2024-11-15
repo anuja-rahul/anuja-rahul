@@ -47,6 +47,8 @@
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-000?style=for-the-badge&logo=tailwindcss)
 ![DAISY_UI](https://img.shields.io/badge/-daisy_ui-000?style=for-the-badge&logo=daisyui)
 ![NEXT_UI](https://img.shields.io/badge/-next_ui-000?style=for-the-badge&logo=nextui)
+![SHAD_CN_UI](https://img.shields.io/badge/-shadCN_ui-000?style=for-the-badge&logo=shadcnui)
+![CHAKRA_UI](https://img.shields.io/badge/-chakra_ui-000?style=for-the-badge&logo=chakraui)
 ![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass)
 
 ![POSTGRES](https://img.shields.io/badge/-postgresql-000?style=for-the-badge&logo=postgresql)
@@ -57,6 +59,8 @@
 ![SQLALCHEMY](https://img.shields.io/badge/-sqlalchemy-000?style=for-the-badge&logo=sqlalchemy)
 ![FAST API](https://img.shields.io/badge/-fast_api-000?style=for-the-badge&logo=fastapi)
 ![SPRING](https://img.shields.io/badge/-spring-000?style=for-the-badge&logo=spring)
+![SPRING](https://img.shields.io/badge/-spring_security-000?style=for-the-badge&logo=springsecurity)
+
 ![HIBERNATE](https://img.shields.io/badge/-hibernate-000?style=for-the-badge&logo=hibernate)
 ![POSTMAN](https://img.shields.io/badge/-postman-000?style=for-the-badge&logo=postman)
 
