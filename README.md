@@ -16,9 +16,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/anuja-rahul?tab=repositories">![](https://img.shields.io/badge/Repositories-000033?style=for-the-badge&logo=github)</a>
 
 
-
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-000?logo=discord)](https://discord.gg/https://discord.com/invite/hkeRphFm) 
 [![Facebook](https://img.shields.io/badge/Facebook-000?logo=Facebook&logoColor=316ff6)](https://facebook.com/anuja.gunasinghe?sfnsn=wa&mibextid=RUbZ1f) 
@@ -27,7 +24,6 @@
 [![Reddit](https://img.shields.io/badge/Reddit-000?logo=Reddit)](https://reddit.com/user/ARG0712) 
 [![Twitch](https://img.shields.io/badge/Twitch-000?logo=Twitch)](https://twitch.tv/madrush07) 
 [![X](https://img.shields.io/badge/X-000?logo=X)](https://x.com/Anuja_Rahul07) 
-
 
 
 ## 💻 Tech Stack:
@@ -64,10 +60,6 @@
 ![HIBERNATE](https://img.shields.io/badge/-hibernate-000?style=for-the-badge&logo=hibernate)
 ![POSTMAN](https://img.shields.io/badge/-postman-000?style=for-the-badge&logo=postman)
 
-[//]: # (![JWT]&#40;https://img.shields.io/badge/-JWT-000?style=for-the-badge&logo=json-web-tokens&#41;)
-
-[//]: # (![PYDANTIC]&#40;https://img.shields.io/badge/-pydantic-000?style=for-the-badge&logo=pydantic&#41;)
-
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Hostinger](https://img.shields.io/badge/-Hostinger-000?style=for-the-badge&logo=hostinger&logoColor=008B5E)
 ![DIGITALOCEAN](https://img.shields.io/badge/-digital_ocean-000?style=for-the-badge&logo=digitalocean)
@@ -88,14 +80,13 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-000?style=for-the-badge&logo=Adobe%20Lightroom)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000?style=for-the-badge&logo=adobe%20photoshop)
 
-
 ---
 
 ### 📊 GitHub Stats:
 ![anuja-rahul's Stats](https://github-readme-stats-seven-alpha-97.vercel.app/api?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=false)
 ![anuja-rahul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuja-rahul&theme=nightowl&hide_border=true)
 <br/><br/>
-![anuja-rahul's Top Languages](https://github-readme-stats-seven-alpha-97.vercel.app/api/top-langs/?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&layout=compact&langs_count=8)
+![anuja-rahul's Top Languages](https://github-readme-stats-seven-alpha-97.vercel.app/api/top-langs/?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&layout=compact&langs_count=9)
 
 <!--
 ### 🏆 GitHub Trophies:
