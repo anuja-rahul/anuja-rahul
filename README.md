@@ -2,18 +2,23 @@
 [![Portfolio](banner-theme-primary.png)](https://anujarahul.vercel.app)
 ## 💫 About Me:
 ### Hello there, I'm [Anuja Rahul 🔗](https://anujarahul.vercel.app)
-####  I'm a cs undergraduate from Sri Lanka. 
 
-- 👨‍💻  I'm currently trying to improve my fullstack knowledge.
 
-- 🚀  I ❤ to work on solutions to automate and simplify our day-to-day tasks.  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=calibri&pause=1000&color=FFFFFFC2&width=435&lines=I'm+a+cs+undergraduate+from+Sri+Lanka.)](https://git.io/typing-svg)
 
-- 🌐  I've been working on creating an API lately.  
+- 👨👨‍💻 I'm currently working on improving my full-stack knowledge.
+- 🚀 I ❤ creating solutions to automate and simplify day-to-day tasks.
+- 🌐 I'm currently working on learning how to implement REST APIs in different tech stacks.
 
-- 📦  Feel free to check them out:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/anuja-rahul?tab=repositories">![](https://img.shields.io/badge/Repositories-000033?style=for-the-badge&logo=github)</a>
+[//]: # (####  I'm a cs undergraduate from Sri Lanka. )
+
+[//]: # (- 📦  Feel free to check them out:  )
+
+[//]: # (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
+
+[//]: # (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
+
+[//]: # (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/anuja-rahul?tab=repositories">![]&#40;https://img.shields.io/badge/Repositories-000033?style=for-the-badge&logo=github&#41;</a>)
 
 
 ## 🌐 Socials:
@@ -52,12 +57,23 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/sqlite-000?style=for-the-badge&logo=sqlite&logoColor=00A6ED)
 
-![SQLALCHEMY](https://img.shields.io/badge/-sqlalchemy-000?style=for-the-badge&logo=sqlalchemy)
+[//]: # (![SQLALCHEMY]&#40;https://img.shields.io/badge/-sqlalchemy-000?style=for-the-badge&logo=sqlalchemy&#41;)
 ![FAST API](https://img.shields.io/badge/-fast_api-000?style=for-the-badge&logo=fastapi)
 ![SPRING](https://img.shields.io/badge/-spring-000?style=for-the-badge&logo=spring)
 ![SPRING](https://img.shields.io/badge/-spring_security-000?style=for-the-badge&logo=springsecurity)
 
-![HIBERNATE](https://img.shields.io/badge/-hibernate-000?style=for-the-badge&logo=hibernate)
+<!--
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
+![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  
+![Serilog](https://img.shields.io/badge/-Serilog-272E31?style=for-the-badge&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![OAuth2](https://img.shields.io/badge/-OAuth2-3C8DBC?style=for-the-badge&logo=oauth&logoColor=white)  
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)  
+-->
+
+[//]: # (![HIBERNATE]&#40;https://img.shields.io/badge/-hibernate-000?style=for-the-badge&logo=hibernate&#41;)
 ![POSTMAN](https://img.shields.io/badge/-postman-000?style=for-the-badge&logo=postman)
 
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
@@ -74,11 +90,13 @@
 ![Prismic](https://img.shields.io/badge/prismic-000?style=for-the-badge&logo=prismic)
 ![Prisma](https://img.shields.io/badge/prisma-000?style=for-the-badge&logo=prisma)
 ![Mermaid](https://img.shields.io/badge/Mermaid-000?style=for-the-badge&logo=mermaid)
-![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
+
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino&logoColor=00979D) 
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-000?style=for-the-badge&logo=Adobe%20Dreamweaver)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-000?style=for-the-badge&logo=Adobe%20Lightroom)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000?style=for-the-badge&logo=adobe%20photoshop)
+
+[//]: # (![Docker]&#40;https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker&#41;)
 
 ---
 
