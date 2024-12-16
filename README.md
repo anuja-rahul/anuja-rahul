@@ -3,6 +3,7 @@
 ## 💫 About Me:
 ### Hello there, I'm [Anuja Rahul 🔗](https://anujarahul.vercel.app)
 
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/anuja-rahul.svg)](https://user-badge.committers.top/sri_lanka/anuja-rahul)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=calibri&pause=1000&color=FFFFFFC2&width=435&lines=I'm+a+cs+undergraduate+from+Sri+Lanka.)](https://git.io/typing-svg)
 
