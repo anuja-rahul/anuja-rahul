@@ -21,7 +21,6 @@
 
 [//]: # (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/anuja-rahul?tab=repositories">![]&#40;https://img.shields.io/badge/Repositories-000033?style=for-the-badge&logo=github&#41;</a>)
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-000?logo=discord)](https://discord.gg/https://discord.com/invite/hkeRphFm) 
 [![Facebook](https://img.shields.io/badge/Facebook-000?logo=Facebook&logoColor=316ff6)](https://facebook.com/anuja.gunasinghe?sfnsn=wa&mibextid=RUbZ1f) 
