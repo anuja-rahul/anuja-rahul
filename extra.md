@@ -176,12 +176,14 @@ public class Hello {
 ![anuja-rahul's Stats](https://github-readme-stats.vercel.app/api?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=false)
 ![anuja-rahul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuja-rahul&theme=nightowl&hide_border=true)
 <br/><br/>
-![anuja-rahul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&layout=compact&langs_count=8)
+
+[//]: # (![anuja-rahul's Top Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&layout=compact&langs_count=8&#41;)
+![anuja-rahul's Top Languages](https://github-readme-stats-git-master-anuja-rahuls-projects.vercel.app/api/top-langs/?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&layout=compact&langs_count=8)
 
 ---
 
 ### 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=anuja-rahul&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=2&column=4)
+![](https://github-profile-trophy.vercel.app/?username=anuja-rahul&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=2&column=5)
 
 <!--
 -->

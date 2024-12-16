@@ -58,11 +58,12 @@
 ![SQLite](https://img.shields.io/badge/sqlite-000?style=for-the-badge&logo=sqlite&logoColor=00A6ED)
 
 [//]: # (![SQLALCHEMY]&#40;https://img.shields.io/badge/-sqlalchemy-000?style=for-the-badge&logo=sqlalchemy&#41;)
-![FAST API](https://img.shields.io/badge/-fast_api-000?style=for-the-badge&logo=fastapi)
-![SPRING](https://img.shields.io/badge/-spring-000?style=for-the-badge&logo=spring)
-![SPRING](https://img.shields.io/badge/-spring_security-000?style=for-the-badge&logo=springsecurity)
+![FAST API](https://img.shields.io/badge/-fastapi-000?style=for-the-badge&logo=fastapi)
+![SPRING](https://img.shields.io/badge/-springboot-000?style=for-the-badge&logo=springboot)
+![SPRING](https://img.shields.io/badge/-dotnet-000?style=for-the-badge&logo=dotnet)
 
 <!--
+![SPRING](https://img.shields.io/badge/-spring_security-000?style=for-the-badge&logo=springsecurity)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
 ![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
