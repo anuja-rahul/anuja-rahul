@@ -93,7 +93,6 @@
 ![Mermaid](https://img.shields.io/badge/Mermaid-000?style=for-the-badge&logo=mermaid)
 
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino&logoColor=00979D) 
-![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-000?style=for-the-badge&logo=Adobe%20Dreamweaver)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-000?style=for-the-badge&logo=Adobe%20Lightroom)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000?style=for-the-badge&logo=adobe%20photoshop)
 
@@ -104,8 +103,11 @@
 ### 📊 GitHub Stats:
 ![anuja-rahul's Stats](https://github-readme-stats-anuja-rahuls-projects.vercel.app/api?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=false)
 ![anuja-rahul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuja-rahul&theme=nightowl&hide_border=true)
-<br/><br/>
-![anuja-rahul's Top Languages](https://github-readme-stats-git-master-anuja-rahuls-projects.vercel.app/api/top-langs/?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&layout=compact&langs_count=8)
+<br/>
+![anuja-rahul's Top Languages](https://github-readme-stats-seven-alpha-97.vercel.app/api/top-langs/?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&layout=compact&langs_count=8)
+
+[//]: # (https://github-readme-stats-seven-alpha-97.vercel.app/)
+[//]: # (https://github-readme-stats-git-master-anuja-rahuls-projects.vercel.app/)
 
 <!--
 ### 🏆 GitHub Trophies:
