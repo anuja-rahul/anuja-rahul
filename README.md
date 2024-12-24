@@ -9,7 +9,7 @@
 
 - 👨👨‍💻 I'm currently working on improving my full-stack knowledge.
 - 🚀 I ❤ creating solutions to automate and simplify day-to-day tasks.
-- 🌐 I'm currently working on learning how to implement REST APIs in different tech stacks.
+- 🌐 I'm also working on learning how to implement REST APIs in different tech stacks.
 
 [//]: # (####  I'm a cs undergraduate from Sri Lanka. )
 

@@ -173,7 +173,7 @@ public class Hello {
 ---
 
 ### 📊 GitHub Stats:
-![anuja-rahul's Stats](https://github-readme-stats.vercel.app/api?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=false)
+![anuja-rahul's Stats](https://github-readme-stats-git-master-anuja-rahuls-projects.vercel.app/api?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=false)
 ![anuja-rahul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuja-rahul&theme=nightowl&hide_border=true)
 <br/><br/>
 
@@ -184,6 +184,7 @@ public class Hello {
 
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=anuja-rahul&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=2&column=5)
+![](https://github-readme-activity-graph.vercel.app/graph?username=anuja-rahul&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true")
 
 <!--
 -->
