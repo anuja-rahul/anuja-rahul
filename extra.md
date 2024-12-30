@@ -184,7 +184,7 @@ public class Hello {
 
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=anuja-rahul&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=2&column=5)
-![](https://github-readme-activity-graph.vercel.app/graph?username=anuja-rahul&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true")
+![](https://github-readme-activity-graph.vercel.app/graph?username=anuja-rahul&radius=16&theme=nightowl&area=true&order=5&hide_border=true&hide_title=false")
 
 <!--
 -->
