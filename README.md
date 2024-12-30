@@ -116,11 +116,11 @@
 -->
 
 ---
+![Codewars](https://www.codewars.com/users/anuja-rahul/badges/small)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=anuja-rahul&radius=16&theme=nightowl&area=true&order=5&hide_border=true&hide_title=false")
 <br/>
 
-![Codewars](https://www.codewars.com/users/anuja-rahul/badges/small)
 
 
 <p>
