@@ -9,7 +9,8 @@
 
 - 👨👨‍💻 I'm currently working on improving my full-stack knowledge.
 - 🚀 I ❤ creating solutions to automate and simplify day-to-day tasks.
-- 🌐 I'm also working on learning how to implement REST APIs in different tech stacks.
+
+[//]: # (- 🌐 I'm also working on learning how to implement REST APIs in different tech stacks.)
 
 [//]: # (####  I'm a cs undergraduate from Sri Lanka. )
 
@@ -116,7 +117,7 @@
 -->
 
 ---
-![Codewars](https://www.codewars.com/users/anuja-rahul/badges/small)
+![CodeWars](https://www.codewars.com/users/anuja-rahul/badges/small)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=anuja-rahul&radius=16&theme=nightowl&area=true&order=5&hide_border=true&hide_title=false")
 <br/>
