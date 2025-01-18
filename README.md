@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=calibri&pause=1000&color=FFFFFFC2&width=435&lines=I'm+a+cs+undergraduate+from+Sri+Lanka.)](https://git.io/typing-svg)
 
-- 👨👨‍💻 I'm currently working on improving my full-stack knowledge.
+- 👨👨‍💻 I'm currently diving into the world of low-level programming languages.
 - 🚀 I ❤ creating solutions to automate and simplify day-to-day tasks.
 
 [//]: # (- 🌐 I'm also working on learning how to implement REST APIs in different tech stacks.)
