@@ -105,7 +105,7 @@
 ![anuja-rahul's Stats](https://github-readme-stats-git-master-anuja-rahuls-projects.vercel.app/api?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true)
 ![anuja-rahul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuja-rahul&theme=nightowl&hide_border=true)
 <br/>
-![anuja-rahul's Top Languages](https://github-readme-stats-seven-alpha-97.vercel.app/api/top-langs/?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&layout=compact&langs_count=8)
+![anuja-rahul's Top Languages](https://github-readme-stats-seven-alpha-97.vercel.app/api/top-langs/?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&layout=compact&langs_count=10)
 
 [//]: # (https://github-readme-stats-seven-alpha-97.vercel.app/)
 [//]: # (https://github-readme-stats-git-master-anuja-rahuls-projects.vercel.app/)
