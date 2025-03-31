@@ -7,9 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=calibri&pause=1000&color=FFFFFFC2&width=435&lines=I'm+a+cs+undergraduate+from+Sri+Lanka.)](https://git.io/typing-svg)
 
-- 👨👨‍💻 I'm currently diving into the world of low-level programming languages.
-- 🚀 I ❤ creating solutions to automate and simplify day-to-day tasks.
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-000?logo=discord)](https://discord.gg/https://discord.com/invite/hkeRphFm) 
 [![Facebook](https://img.shields.io/badge/Facebook-000?logo=Facebook&logoColor=316ff6)](https://facebook.com/anuja.gunasinghe?sfnsn=wa&mibextid=RUbZ1f) 
